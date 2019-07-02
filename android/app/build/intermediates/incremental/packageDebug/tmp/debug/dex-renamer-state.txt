@@ -1,0 +1,4 @@
+#Tue Jul 02 10:41:28 CEST 2019
+base.0=/Users/alish/Documents/projects/reactnative-sample/HelloWorld/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
