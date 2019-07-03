@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import Child from './Child.js';
 import {Platform, Button ,StyleSheet, Text, View ,Alert} from 'react-native';
 
-class Parent extends Component {
+export class Parent extends Component {
     constructor(props) {
         super(props)
         this.state = {
@@ -30,4 +30,4 @@ class Parent extends Component {
 
 }
 
-export default Parent
+// export default Parent

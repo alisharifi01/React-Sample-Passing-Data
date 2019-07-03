@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/alish/Documents/projects/reactnative-sample/HelloWorld/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml",
+            "outputFile": "/Users/alish/Documents/projects/reactnative-sample/React-Sample-Passing-Data/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml",
             "map": [
                 {
                     "source": "/Users/alish/.gradle/caches/transforms-2/files-2.1/4bbfebfae13ec88a10e2a7229898c7c2/res/values-it/values-it.xml",
